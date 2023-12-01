@@ -1,2 +1,2 @@
-# AoC
-Advent of Code repository for each years attempt at solving the puzzles :)
+# AoC 2023
+Advent of Code repository with the attempts at solving the puzzles :)
