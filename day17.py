@@ -1,6 +1,5 @@
 import os
 file_path = os.path.join('AoC_2023','day17.txt')
-
 from heapq import heappop, heappush as push
 
 G = {i + j*1j: int(c) for i,r in enumerate(open(file_path))
