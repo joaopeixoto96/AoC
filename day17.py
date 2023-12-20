@@ -1,5 +1,5 @@
 import os
-file_path = os.path.join('Advent of Code 2023','day17.txt')
+file_path = os.path.join('AoC_2023','day17.txt')
 
 from heapq import heappop, heappush as push
 

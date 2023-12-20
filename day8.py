@@ -2,7 +2,7 @@ import os
 import ast
 import re
 from math import gcd
-file_path = os.path.join('Advent of Code 2023','day8.txt')
+file_path = os.path.join('AoC_2023','day8.txt')
 with open(file_path, 'r') as f:
     lines = f.readlines()
 

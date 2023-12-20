@@ -1,5 +1,5 @@
 import os
-file_path = os.path.join('Advent of Code 2023','day9.txt')
+file_path = os.path.join('AoC_2023','day9.txt')
 lines = open(file_path).read().splitlines()
 
 def part1(a):

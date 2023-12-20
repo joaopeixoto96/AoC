@@ -1,5 +1,5 @@
 import os
-file_path = os.path.join('Advent of Code 2023','day16.txt')
+file_path = os.path.join('AoC_2023','day16.txt')
 
 g = {complex(i,j): c for j, r in enumerate(open(file_path))
                      for i, c in enumerate(r.strip())}

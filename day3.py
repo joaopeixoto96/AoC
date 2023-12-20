@@ -1,7 +1,7 @@
 import os
 import re
 
-file_path = os.path.join('Advent of Code 2023','day3.txt')
+file_path = os.path.join('AoC_2023','day3.txt')
 # with open(file_path, 'r') as f:
 #     lines = f.readlines()
 #     schematic = [entry.strip() for entry in lines]

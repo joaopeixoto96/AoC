@@ -1,6 +1,6 @@
 import os
 from itertools import count
-file_path = os.path.join('Advent of Code 2023','day14.txt')
+file_path = os.path.join('AoC_2023','day14.txt')
 rows = open(file_path).read().splitlines()
 
 board = {i + 1j * j: x for i, l in enumerate(rows) for j, x in enumerate(l)}

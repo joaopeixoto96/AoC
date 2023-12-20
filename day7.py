@@ -1,6 +1,6 @@
 import os
 from collections import Counter
-file_path = os.path.join('Advent of Code 2023','day7.txt')
+file_path = os.path.join('AoC_2023','day7.txt')
 
 def get_numerical(card):
     if card.isdigit():

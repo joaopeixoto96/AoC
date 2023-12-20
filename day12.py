@@ -1,6 +1,6 @@
 import os
 from functools import cache
-file_path = os.path.join('Advent of Code 2023','day12.txt')
+file_path = os.path.join('AoC_2023','day12.txt')
 rows = open(file_path).read().splitlines()
 
 @cache

@@ -4,7 +4,7 @@ import re
 from time import perf_counter
 from typing import Set,Optional,List,Tuple
 
-file_path = os.path.join('Advent of Code 2023','day5.txt')
+file_path = os.path.join('AoC_2023','day5.txt')
 def clean_line(line: str) -> Tuple[int,int,int]:
     res = (int(x) for x in line.split())
     return res

@@ -1,6 +1,6 @@
 import os
 import numpy as np
-file_path = os.path.join('Advent of Code 2023','day6.txt')
+file_path = os.path.join('AoC_2023','day6.txt')
 with open(file_path, 'r') as f:
     lines = f.readlines()
     boats = [entry.strip() for entry in lines]

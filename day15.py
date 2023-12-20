@@ -1,6 +1,6 @@
 import os
 from functools import reduce
-file_path = os.path.join('Advent of Code 2023','day15.txt')
+file_path = os.path.join('AoC_2023','day15.txt')
 input = [i for i in open(file_path).read().strip().split(',')]
 
 # input = [30, 99, 109, 45]

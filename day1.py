@@ -1,5 +1,5 @@
 import os
-file_path = os.path.join('Advent of Code 2023','day1.txt')
+file_path = os.path.join('AoC_2023','day1.txt')
 file_input = open(file_path)
 
 data = [i for i in file_input.read().strip().split()]

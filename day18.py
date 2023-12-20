@@ -1,5 +1,5 @@
 import os
-file_path = os.path.join('Advent of Code 2023','day18.txt')
+file_path = os.path.join('AoC_2023','day18.txt')
 
 plan = list(map(str.split, open(file_path)))
 

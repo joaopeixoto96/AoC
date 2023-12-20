@@ -1,5 +1,5 @@
 import os
-file_path = os.path.join('Advent of Code 2023','day2.txt')
+file_path = os.path.join('AoC_2023','day2.txt')
 with open(file_path, 'r') as f:
     lines = f.readlines()
     games = [entry.strip() for entry in lines]

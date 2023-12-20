@@ -1,6 +1,6 @@
 import os
 from copy import deepcopy as dp
-file_path = os.path.join('Advent of Code 2023','day11.txt')
+file_path = os.path.join('AoC_2023','day11.txt')
 
 t = 0
 rows = open(file_path).read().splitlines()
